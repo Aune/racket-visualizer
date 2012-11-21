@@ -1,6 +1,0 @@
-#lang racket
-
-(require "interpreter.rkt")
-
-(define (draw-frame 0))
-
